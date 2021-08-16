@@ -8,7 +8,7 @@ I will update this weekly with all of the public channels. You can find them her
 
 [#development](https://byte223.github.io/areaix-memories/files/development.html)
 
-[#primary](https://byte223.github.io/areaix-memories/files/primary.html)
+[#primary](https://byte223.github.io/areaix-memories/files/primary.html) - this doesn't work I can't upload it as it's too big
 
 [#secondary](https://byte223.github.io/areaix-memories/files/secondary.html) - note this was AFTER channel deletion.
 
