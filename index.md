@@ -11,3 +11,5 @@ I will update this weekly with all of the public channels. You can find them her
 [#suggestions](https://byte223.github.io/areaix-memories/files/suggestions.html)
 [#bug_reports](https://byte223.github.io/areaix-memories/files/bugs.html)
 [#q_and_a](https://byte223.github.io/areaix-memories/files/qanda.html)
+
+Last updated - 16/08/2021 (british format - cry about it)
