@@ -1,4 +1,4 @@
-## This is a random archive of all the channels in Area-IX (bad scpf) 
+## This is a random archive of all the channels in Area-IX (best scpf) 
 
 I will update this weekly with all of the public channels. You can find them here.
 
